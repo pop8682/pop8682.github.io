@@ -1,5 +1,5 @@
 # Site settings
-theme:      tale
+remote_theme: chesterhow/tale
 
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
