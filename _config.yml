@@ -1,4 +1,6 @@
 # Site settings
+theme:      tale
+
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
